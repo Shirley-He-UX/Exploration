@@ -11,8 +11,6 @@ Group13-He, Li
     
 3.found problems & solutions
 
-    (1) How to recoganize whether the mouse is hovering over the irregular figures through the SVG or PNG pictures
-   
-    (2) How to determine the accurate time of trasition parts
-   
+    (1) How to recoganize whether the mouse is hovering over the irregular figures through the SVG or PNG pictures
+    (2) How to determine the accurate time of trasition parts
     (3) The canvas elements are hard to bind the mouse events with them, dom elemnts maybe easier but it's hard to draw the shapes without canvas
