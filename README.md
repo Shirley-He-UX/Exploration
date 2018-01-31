@@ -1,5 +1,8 @@
-# Exploration
-Group13-He, Li
+# Exploration-Group13-He, Li
+
+
+
+
 1.the project idea
 
     Trough the iteraction with the websites explain the experience of the narmal academic career 
