@@ -1,38 +1,32 @@
-var count=0;
+
+
 function setup() {
   cnv=createCanvas(windowWidth,windowHeight);
-
   textAlign(CENTER);
-  textFont('monospace');
-  scale(10);
+  textFont('Share Tech Mono');
+   angleMode(DEGREES);
 }
 
 function draw() {
-  background('#222');
-  fill(255);
-  textSize(width/40);
+  background(0);
   noStroke();
-  fill('#1cc7d0');
-  text('Drag your ball to cross the line',width/2,height*9/10);
-  if(count<170){
-  ellipse(map(mouseX,0,width,0,width/2),height/2,height*3/4);
-  }
-  stroke('#1cc7d0');
-  strokeWeight(4);
-  line(width*3/5,0,width*3/5,height);
-  if(mouseX>width*19/20){
-    count++;
-    if(count>160){
-      ellipse(width*4/5,height/2,height/4);
-    }
-    if(count>200){
-      window.location.href="s8.html"; 
-    }
-  }
-
+ textSize(18);
+ fill(255);
+  text('You did it',width/2,height/2);
+  text('You know a little bit more than others',width/2,height*1.2/3);
+  fill(28,100,208);
+  
+  ellipse(width/2,height/2-height/19,5);
+  
+  stroke(255);
+  strokeWeight(1);
+  noFill();
+  ellipse(width/2,height*4/5,windowHeight*2.1/3);
 }
 
 function windowResized(){
   resizeCanvas(windowWidth,windowHeight);
 }
-
+function mousePressed()  {
+    window.location.href="s8.html"; 
+}
