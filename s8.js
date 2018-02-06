@@ -10,7 +10,7 @@ function setup() {
   background(255,255,255-frameCount);
   textAlign(CENTER);
   textFont('Share Tech Mono');
-  textSize(18);
+  textSize(20);
   noStroke();
     s = new Hand(10, 320, 150, 2); 
   fill(255);
