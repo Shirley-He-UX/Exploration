@@ -1,34 +1,45 @@
-
 function setup() {
-  createCanvas(windowWidth,windowHeight);
+  cnv=createCanvas(windowWidth,windowHeight);
+   background(0);
   textAlign(CENTER);
-  textFont('monospace');
+    textSize(18);
+  textFont('Share Tech Mono');
 }
 
 function draw() {
-  background('#222')
+  background(0);
   noStroke();
-  fill(28,199,208);
- 
-  if(mouseIsPressed){
-      textSize(width/40);
-     fill(255);
-     text('Move your mouse to the top to explore MORE',width/2,height/8);
-     fill(28,199,208);
-     ellipse(width/2,height*5/6,height*2/5,height/10);
-      fill(28,199,208,120);
-     ellipse(width/2,height*3/5,height*3/5,height/6);
-      fill(28,199,208,40);
-      ellipse(width/2,height/3,height,height/4);
-      
+ fill(255);
+  text('Choose another circle to fill',width/2,height/2);
+
+  if(frameCount>100){
+     
+     fill(28,100,208,frameCount);
+     for(var x=1;x<10;x++){
+            for(var y=1;y<10;y++){
+             if(x*width/10-width/40<mouseX && mouseX<x*width/10+width/40 && y*height/10-width/40<mouseY && mouseY<y*height/10+width/40){
+               fill(28,100,208);
+             }else{
+               fill(28,100,208,40);
+             }
+             ellipse(x*width/10,y*height/10,width/40);
+        }
+     }
   }else{
-     ellipse(width/2,height/2,height*3/4);
+     fill(28,100,208,frameCount/2);
+     for(var i=1;i<10;i++){
+             for(var j=1;j<10;j++){
+             ellipse(i*width/10,j*height/10,width/40);
+        }
+     }
   }
-  if(mouseY<0 && mouseIsPressed){
-     window.location.href="s5.html"; 
-  }
+
+
 }
 
 function windowResized(){
   resizeCanvas(windowWidth,windowHeight);
+}
+function mousePressed()  {
+  window.location.href="s6.html"; 
 }
