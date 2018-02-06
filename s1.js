@@ -31,7 +31,7 @@ function windowResized(){
 }
 function mousePressed(){   
     if(count>=12){
-       window.location.href="s3.html"; 
+       window.location.href="s2.html"; 
     }
     imgs[round(count)].style('opacity',1);
     count+=0.5;
