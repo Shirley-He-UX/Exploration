@@ -41,7 +41,8 @@
 
  
                   
-     "ALL men by nature desire to know. An indication of this is the delight we take in our senses; 
+     "ALL men by nature desire to know. 
+     An indication of this is the delight we take in our senses; 
      for even apart from their usefulness they are loved for themselves; 
      and above all others the sense of sight. For not only with a view to action, 
      but even when we are not going to do anything, 
