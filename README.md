@@ -63,4 +63,5 @@
     
     (2) How to determine the accurate time of trasition parts
     
-    (3) The canvas elements are hard to bind the mouse events with them, dom elemnts maybe easier but it's hard to draw the shapes without canvas
+    (3) The canvas elements are hard to bind the mouse events with them, 
+        dom elemnts maybe easier but it's hard to draw the shapes without canvas
