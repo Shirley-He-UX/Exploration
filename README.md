@@ -41,7 +41,13 @@
 
  
                   
-     "ALL men by nature desire to know. An indication of this is the delight we take in our senses; for even apart from their usefulness they are loved for themselves; and above all others the sense of sight. For not only with a view to action, but even when we are not going to do anything, we prefer seeing (one might say) to everything else. The reason is that this, most of all the senses, makes us know and brings to light many differences between things. "
+     "ALL men by nature desire to know. An indication of this is the delight we take in our senses; 
+     for even apart from their usefulness they are loved for themselves; 
+     and above all others the sense of sight. For not only with a view to action, 
+     but even when we are not going to do anything, 
+     we prefer seeing (one might say) to everything else. The reason is that this, 
+     most of all the senses, 
+     makes us know and brings to light many differences between things. "
                                                                                                           Metaphysics By Aristotle
                                                                                                           Translated by W. D. Ross
 2.used libraries
