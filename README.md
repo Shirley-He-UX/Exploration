@@ -5,7 +5,9 @@
 
 1.the project idea
 
-    Trough the iteraction with the websites explain the experience of the narmal academic career 
+    Trough the iteraction with the websites explain the experience of the narmal academic career.
+    The more we know, the more we realize how little we know.
+ 
     
    ![image](https://github.com/snow1991bloom/Exploration/blob/master/pictures/Exploration_%E9%A1%B5%E9%9D%A2_01.jpg?raw=true)
    
