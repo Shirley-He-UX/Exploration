@@ -6,8 +6,8 @@
 1.the project idea
 
     Trough the iteraction with the websites explain the experience of the narmal academic career.
-    
-    “The more you know, the more you know you don't know.” ― Aristotle
+    
+     “The more you know, the more you know you don't know.” ― Aristotle
  
     
    ![image](https://github.com/snow1991bloom/Exploration/blob/master/pictures/Exploration_%E9%A1%B5%E9%9D%A2_01.jpg?raw=true)
