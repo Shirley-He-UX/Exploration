@@ -48,8 +48,9 @@
      we prefer seeing (one might say) to everything else. The reason is that this, 
      most of all the senses, 
      makes us know and brings to light many differences between things. "
-                                                                                                          Metaphysics By Aristotle
-                                                                                                          Translated by W. D. Ross
+     
+     Metaphysics By Aristotle
+     (Translated by W. D. Ross)
 2.used libraries
 
     ---p5.dom.js
