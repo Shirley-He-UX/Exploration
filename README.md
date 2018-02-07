@@ -7,6 +7,33 @@
 
     Trough the iteraction with the websites explain the experience of the narmal academic career 
     
+   ![image](https://github.com/snow1991bloom/Exploration/blob/master/pictures/Exploration_%E9%A1%B5%E9%9D%A2_01.jpg?raw=true)
+   
+   ![image](https://github.com/snow1991bloom/Exploration/blob/master/pictures/Exploration_%E9%A1%B5%E9%9D%A2_02.jpg?raw=true)
+   
+   ![image](https://github.com/snow1991bloom/Exploration/blob/master/pictures/Exploration_%E9%A1%B5%E9%9D%A2_03.jpg?raw=true)
+   
+   ![image](https://github.com/snow1991bloom/Exploration/blob/master/pictures/Exploration_%E9%A1%B5%E9%9D%A2_04.jpg?raw=true)    
+   
+   ![image](https://github.com/snow1991bloom/Exploration/blob/master/pictures/Exploration_%E9%A1%B5%E9%9D%A2_05.jpg?raw=true)
+   
+   ![image](https://github.com/snow1991bloom/Exploration/blob/master/pictures/Exploration_%E9%A1%B5%E9%9D%A2_06.jpg?raw=true)
+   
+   ![image](https://github.com/snow1991bloom/Exploration/blob/master/pictures/Exploration_%E9%A1%B5%E9%9D%A2_07.jpg?raw=true)
+   
+   ![image](https://github.com/snow1991bloom/Exploration/blob/master/pictures/Exploration_%E9%A1%B5%E9%9D%A2_08.jpg?raw=true)    
+   
+   ![image](https://github.com/snow1991bloom/Exploration/blob/master/pictures/Exploration_%E9%A1%B5%E9%9D%A2_09.jpg?raw=true)
+   
+   ![image](https://github.com/snow1991bloom/Exploration/blob/master/pictures/Exploration_%E9%A1%B5%E9%9D%A2_10.jpg?raw=true)
+   
+   ![image](https://github.com/snow1991bloom/Exploration/blob/master/pictures/Exploration_%E9%A1%B5%E9%9D%A2_11.jpg?raw=true)
+   
+   ![image](https://github.com/snow1991bloom/Exploration/blob/master/pictures/Exploration_%E9%A1%B5%E9%9D%A2_12.jpg?raw=true) 
+   
+   ![image](https://github.com/snow1991bloom/Exploration/blob/master/pictures/Exploration_%E9%A1%B5%E9%9D%A2_13.jpg?raw=true)
+   
+   ![image](https://github.com/snow1991bloom/Exploration/blob/master/pictures/Exploration_%E9%A1%B5%E9%9D%A2_14.jpg?raw=true) 
 2.used libraries
 
     ---p5.dom.js
